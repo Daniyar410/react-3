@@ -1,0 +1,12 @@
+
+
+.wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+    h2,p{
+        color: blueviolet;
+    }
+}
